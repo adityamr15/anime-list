@@ -1,0 +1,14 @@
+.anime-container {
+  position: relative;
+}
+
+.anime-container .fa-trash {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  font-size: 30px;
+  color: #fff;
+  z-index: 10;
+  text-shadow: 1px 2px 0px rgb(0 0 0 / 50%);
+  cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.navbar-inverse .navbar-brand {
+  color: #fff;
+  font-size: 2.25rem;
+  text-transform: uppercase;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #fff;
+}
